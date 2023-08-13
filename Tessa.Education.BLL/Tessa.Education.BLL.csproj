@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TASS.Education.DAL\Tessa.Education.DAL.csproj" />
+    <ProjectReference Include="..\Tessa.Education.DAL\Tessa.Education.DAL.csproj" />
   </ItemGroup>
 
 </Project>
